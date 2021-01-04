@@ -1,3 +1,3 @@
-#Stack game made in Unity
+# Stack game made in Unity
 
 link : https://thiagobergami.itch.io/stack
